@@ -7,7 +7,6 @@
   <h3 align="center">Hi, I am Gwardo</h3>
 
   <p align="center">
-    Self Taught Software Engineer
     <br />
     <a href="https://gwardo.vercel.app/"><strong>My Portfolio</strong></a>
     <br />
