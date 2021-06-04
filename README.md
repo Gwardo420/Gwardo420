@@ -18,7 +18,7 @@
     ·
     <a href="https://cryptowatchr.io">CryptoWatchr</a>
     ·
-    <a href="https://">CryptoBlog</a>
+    <a href="https://cryptoblog.vercel.app">CryptoBlog</a>
   </p>
 
  ### I am a self taught software engineer.
