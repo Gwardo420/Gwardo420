@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/gwardo420">
-    <img src="https://twitchbuds.com/static/media/gwardo.f75ba053.png" alt="Logo" width="80" height="80">
+    <img src="https://i.imgur.com/hn9YLV1.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Hi, I am Gwardo</h3>
