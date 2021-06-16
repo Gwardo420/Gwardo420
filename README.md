@@ -8,18 +8,29 @@
 
   <p align="center">
     <br />
-    <a href="https://gwardo.vercel.app/"><strong>My Portfolio</strong></a>
+    <a href="https://gwardo.vercel.app/"><strong>➡️ My Portfolio</strong></a>
     <br />
     <br />
-    <a href="https://twitchbuds.com">Twitch Buds</a>
+  <p align="center">
+    My Projects
+  <p align="center"> 
+   ✔️ <a href="https://twitchbuds.com">Twitch Buds</a>
     ·
-    <a href="https://twitter.com/twitchbuds">Twitter</a>
+   ✔️ <a href="https://cryptowatchr.io">CryptoWatchr</a>
     ·
-    <a href="https://cryptowatchr.io">CryptoWatchr</a>
+   ✔️ <a href="https://cryptoblog.vercel.app">CryptoBlog</a>
     ·
-    <a href="https://cryptoblog.vercel.app">CryptoBlog</a>
+   ✔️ <a href="https://cluchart.vercel.app">CluCoin Price Chart</a>
     ·
-    <a href="https://cluchart.vercel.app">CluCoin Price Chart</a>
+   ✔️ <a href="https://retweetpicker.vercel.app/">Discord Retweet Picker</a>
+  </p>
+  </p>
+  </p>
+
+  <p align="center"> My Social Media 
+  <p align="center"> 
+    ➡️ <a href="https://twitter.com/twitchbuds"><strong> Twitter Page</strong></a>
+  </p>
   </p>
 
  ### I am a self taught software engineer.
