@@ -12,10 +12,10 @@ I started coding a custom bot for my Twitch channel back in 2018 and from then o
 *   🚀  I'm currently working on [My Cozy App](http://mycozy.place)
 *   🧠  I'm learning Python, Rust, Vite among other various tools.
 *   🤝  I'm open to collaborating on #Web3 Projects
-*   ⚡  I created @CryptoWatchr on Twitter if you would like to check it out.<a href="https://www.twitter.com/devgwardo" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/devgwardo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a><a href="https://www.twitch.tv/NotGwardo420" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitch/status/NotGwardo420?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+*   ⚡  I created @CryptoWatchr on Twitter if you would like to check it out.
+
+<a href="https://www.twitter.com/devgwardo" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/devgwardo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
+<a href="https://www.twitch.tv/NotGwardo420" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/NotGwardo420?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
                   
 ### Skills 
 <p align="left">
