@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gwardo420
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gwardo
 =================================================================================================================================
 
 #Web3 Developer
@@ -12,10 +12,8 @@ I started coding a custom bot for my Twitch channel back in 2018 and from then o
 *   🚀  I'm currently working on [My Cozy App](http://mycozy.place)
 *   🧠  I'm learning Python, Rust, Vite among other various tools.
 *   🤝  I'm open to collaborating on #Web3 Projects
-*   ⚡  I created @CryptoWatchr on Twitter if you would like to check it out.
 
-<a href="https://www.twitter.com/devgwardo" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/devgwardo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
-<a href="https://www.twitch.tv/NotGwardo420" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/NotGwardo420?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+<a href="https://www.twitter.com/devgwardonft" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/devgwardo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
                   
 ### Skills 
 <p align="left">
@@ -43,7 +41,6 @@ I started coding a custom bot for my Twitch channel back in 2018 and from then o
 </p>
                     
 ### Socials
-
 <p align="left"> <a href="https://www.dev.to/devgwardo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Gwardo420#5872" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/gwardo420" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/torrey-kimbrough-540902206/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/devgwardo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/@TorreyKimbrough" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/NotGwardo420" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 ### Badges
 
